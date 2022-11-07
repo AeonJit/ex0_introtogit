@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Green
+Favorite food: Broccoli
+Favorite musician/band: Green Day 
+Favorite movie: Green Book
+Requested grade in the course:99 
